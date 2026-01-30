@@ -156,7 +156,9 @@ Mean Squared Error (MSE)
 Model	R² Score	RMSE
 
 Linear Regression	0.999*	0.011
+
 Random Forest	0.810	299.07
+
 Gradient Boosting	0.874	244.00
 
 
