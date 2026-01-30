@@ -217,7 +217,7 @@ B.Tech CSE, IGDTUW
 📄 Research & Internship Context
 
 This project was developed as part of a Six-Weeks Summer Internship organized by
-IGDTUW Anveshan Foundation, supported by DST-NIDHI & Startup India initiatives.
+IGDTUW Anveshan Foundation.
 
 
 ---
